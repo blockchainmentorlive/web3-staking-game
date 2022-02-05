@@ -1,0 +1,6 @@
+.next
+node_modules
+.env*
+hh/artifacts
+hh/cache
+package-lock.json
